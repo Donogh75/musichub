@@ -1,14 +1,16 @@
 
 header {
-    padding: 100px;
+    position: relative;
+    padding: 50px;
     text-align: center;
     background-color: blueviolet;
+   
     }
-    img {float: right;}
-div {
-    width: 300px:
-    margin: auto;
-}
+    div.logo {
+        position: absolute;
+        
+    }
+
 footer {
     padding: 50px;
     text-align: center;
@@ -20,14 +22,16 @@ body {
     font-family: Arial, Verdana,sans-serif;
 }
 nav {
+    display: flex;
+    flex-direction: row;
     text-align:center;
     text-decoration: solid;
     text-emphasis-style: bold;
     border-radius:none
     background-color: aquamarine;
-    padding: 30px; 
+    padding: 40px;
     color: black;
-    text-decoration: none;
+    
 }
 nav :hover {
 background-color: rgb(255, 161, 127);
@@ -43,6 +47,7 @@ h1 {
     text-align: center;
     color: #000000;
 }
+
 h2 {
 
     border-bottom: 2px dashed  #000000;
