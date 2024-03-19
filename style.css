@@ -1,14 +1,14 @@
 
 header {
-    position: relative;
+    display: flex;
     padding: 50px;
+    align-items: center;
     text-align: center;
     background-color: blueviolet;
-   
-    }
-    div.logo {
-        position: absolute;
-        
+}
+div.logo {
+    position: absolute;
+     
     }
 
 footer {
@@ -40,9 +40,8 @@ color: black;
 }
 
 h1 {
-    border-radius: 100px; 
-    position:absolute
-    background-color: cadetblue; background-position: center; width: 850px;
+    border-radius: auto
+    background-color: cadetblue; background-position: center; width: 700px;
     font-family:content 'Times New Roman', Times, serif;
     text-align: center;
     color: #000000;
