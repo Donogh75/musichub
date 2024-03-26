@@ -54,10 +54,10 @@ color: black;
 }
 .nav-anchor{
     flex:1;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-decoration: none;
     border: 2px solid black;
-    padding: 2rem 20px ;
+    padding: 1rem 15px ;
 }
 .nav-anchor:hover{
     background-color: bisque;
