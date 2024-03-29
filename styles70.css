@@ -1,0 +1,34 @@
+body {
+    background-color: #d9d2e9;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.table-container {
+    margin-bottom: 20px;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: blueviolet;
+}
+
+.colored-table td:nth-child(1) {
+background-color: lightpink;
+}
+
+.colored-table td:nth-child(2) {
+background-color: lightcyan;
+}
+
+.colored-table td:nth-child(3) {
+background-color: lightgreen;
+}
+.colored-table td:nth-child(4) {
+background-color: lightseagreen;
+}
