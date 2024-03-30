@@ -44,8 +44,8 @@ nav {
     text-align:center;
     text-decoration: solid;
     text-emphasis-style: bold;
-    background-color: #CBBBF4
-    ;
+    background-color: #CBBBF4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     
 }
@@ -81,7 +81,7 @@ body {
     font-family: Arial, Verdana,sans-serif;
 }
 .custom-form {
-    width: 50%;
+    width: 45%;
 }
 
 h1 {

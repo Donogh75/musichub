@@ -5,12 +5,14 @@ table {
     width: 100%;
     border-collapse: collapse;
 }
-.table-container {
-    margin-bottom: 20px;
+
+.h1 {
+    box-shadow: #bbf4cb;
 }
+
 th, td {
     border: 1px solid black;
-    padding: 8px;
+    padding: 6px;
     text-align: left;
 }
 
@@ -18,17 +20,28 @@ th {
     background-color: blueviolet;
 }
 
-.colored-table td:nth-child(1) {
-background-color: lightpink;
+.colored-table1 td:nth-child(1) {
+background-color: 	#e8bbf4;
 }
 
-.colored-table td:nth-child(2) {
-background-color: lightcyan;
+.colored-table1 td:nth-child(2) {
+background-color: 	#bbf4cb;
 }
 
-.colored-table td:nth-child(3) {
-background-color: lightgreen;
+.colored-table1 td:nth-child(3) {
+background-color: 	#e8bbf4
 }
-.colored-table td:nth-child(4) {
-background-color: lightseagreen;
+.colored-table1 td:nth-child(4) {
+background-color: 	#bbf4cb;
 }
+
+.music-table2 td:nth-child(1) {
+    background-color: #e8bbf4;
+}
+.music-table2 td:nth-child(2) {
+background-color: #bbf4cb;
+}
+
+.music-table2 td:nth-child(3) {
+    background-color: #e8bbf4
+    }
