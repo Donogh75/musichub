@@ -20,6 +20,13 @@ th {
     background-color: blueviolet;
 }
 
+.image-size {
+    width: 275px;
+    height: auto;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
 .colored-table1 td:nth-child(1) {
 background-color: 	#e8bbf4;
 }
