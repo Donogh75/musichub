@@ -9,7 +9,7 @@ header{
 }
 
 header #header-text-container{
-    border: 2px solid black;
+
     min-width: 200px;
     flex: 4;
 }
@@ -24,7 +24,7 @@ header #header-text-container{
 
 
 header #header-img-container{
-    border: 2px solid black;
+
     height: 100%;
     flex: 5;
     display: flex;
