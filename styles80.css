@@ -6,6 +6,10 @@ table {
     border-collapse: collapse;
 }
 
+.h1 {
+    box-shadow: #bbf4cb;
+}
+
 th, td {
     border: 1px solid black;
     padding: 6px;
@@ -17,16 +21,28 @@ th {
 }
 
 .colored-table td:nth-child(1) {
-background-color: lightpink;
+background-color: 	#e8bbf4;
 }
 
 .colored-table td:nth-child(2) {
-background-color: lightcyan;
+background-color: 	#bbf4cb;
 }
 
+
 .colored-table td:nth-child(3) {
-background-color: lightgreen;
+background-color: 	#e8bbf4
 }
 .colored-table td:nth-child(4) {
-background-color: lightseagreen;
+background-color: 	#bbf4cb;
 }
+
+.music-table td:nth-child(1) {
+    background-color: #e8bbf4;
+}
+.music-table td:nth-child(2) {
+background-color: #bbf4cb;
+}
+
+.music-table td:nth-child(3) {
+    background-color: #e8bbf4
+    }

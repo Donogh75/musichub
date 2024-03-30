@@ -44,12 +44,15 @@ nav {
     text-align:center;
     text-decoration: solid;
     text-emphasis-style: bold;
+    background-color: #CBBBF4
+    ;
     color: black;
     
 }
 nav :hover {
 background-color: rgb(255, 161, 127);
 color: black;
+
 
 }
 .nav-anchor{
